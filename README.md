@@ -9,4 +9,3 @@
 ## License
 
 Copyright © 2021 [Data Saiyentist](https://github.com/DataSaiyentist). <br />
-This project is [MIT](LICENSE) licensed.
